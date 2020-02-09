@@ -1,5 +1,5 @@
 # imc
-![](tela.PNG)
+![](tela.png)
 A new Flutter project.
 
 ## Getting Started
